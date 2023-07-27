@@ -1,0 +1,2 @@
+this project predicts the stocks of various companies time to time by analysing the latest articles on finviz realted to that company and shows whether the current sentiment is positive or no
+the project mainly scrapes the website and does setiment analysis on them using vader from nltk library
